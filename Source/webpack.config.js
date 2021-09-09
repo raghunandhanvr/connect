@@ -18,7 +18,7 @@ module.exports = {
         test: /\.js$/,
         exclude: /node_modules/,
         loader: 'babel-loader',
-        query: {
+        options: {
           presets: ['env', 'react', 'stage-0'],
           plugins: [
             'react-html-attrs',
@@ -30,7 +30,7 @@ module.exports = {
       },
       {
         test: /\.css$/,
-        loaders: ['style-loader', 'css-loader'],
+        use: ['style-loader', 'css-loader'],
         exclude: /node_modules/,
       },
     ],
