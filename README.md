@@ -1,4 +1,4 @@
-# Connect
+# Connect for Sri Eshwar College of Engineering
 
 “Connect” is a Social media application which has all Basic features of Facebook, Twitter. Connect is all about connecting people with one other. This will be a Social Media Platform that helps to Connect with People around your University or around Universities. In this Application People can create a Post, Like, Share, Comment, Chat, and Create Groups and get a Social Media Kind-of Environment.
 
